@@ -7,4 +7,4 @@ Screen Shot
 
 Features
 
-* Click to play piano note sound
+* Click to play piano notes sound
